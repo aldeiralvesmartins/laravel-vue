@@ -1,0 +1,972 @@
+[
+    {
+        "id": 1,
+        "code": "ABNC",
+        "name": "Academia Brasileira de Neurocirurgia"
+    },
+    {
+        "id": 2,
+        "code": "AGU",
+        "name": "Advocacia-Geral da União"
+    },
+    {
+        "id": 3,
+        "code": "ANAC",
+        "name": "Agência Nacional de Aviação Civil"
+    },
+    {
+        "id": 4,
+        "code": "CAER",
+        "name": "Clube de Aeronáutica"
+    },
+    {
+        "id": 5,
+        "code": "CAU",
+        "name": "Conselho de Arquitetura e Urbanismo"
+    },
+    {
+        "id": 6,
+        "code": "CBM",
+        "name": "Corpo de Bombeiro Militar"
+    },
+    {
+        "id": 7,
+        "code": "CFA",
+        "name": "Conselho Federal Administração"
+    },
+    {
+        "id": 8,
+        "code": "CFB",
+        "name": "Conselho Federal de Biblioteconomia"
+    },
+    {
+        "id": 9,
+        "code": "CFBIO",
+        "name": "Conselho Federal de Biologia"
+    },
+    {
+        "id": 10,
+        "code": "CFBM",
+        "name": "Conselho Federal de Biomedicina"
+    },
+    {
+        "id": 11,
+        "code": "CFC",
+        "name": "Conselho Federal de Contabilidade"
+    },
+    {
+        "id": 12,
+        "code": "CFESS",
+        "name": "Conselho Federal de Serviço Social"
+    },
+    {
+        "id": 13,
+        "code": "CFF",
+        "name": "Conselho Regional de Farmácia"
+    },
+    {
+        "id": 14,
+        "code": "CFFA",
+        "name": "Conselho Federal de Fonoaudiologia"
+    },
+    {
+        "id": 15,
+        "code": "CFM",
+        "name": "Conselho Federal de Medicina"
+    },
+    {
+        "id": 16,
+        "code": "CFMV",
+        "name": "Conselho Federal de Medicina Veterinária"
+    },
+    {
+        "id": 17,
+        "code": "CFN",
+        "name": "Conselho Federal de Nutrição"
+    },
+    {
+        "id": 18,
+        "code": "CFO",
+        "name": "Conselho Federal de Odontologia"
+    },
+    {
+        "id": 19,
+        "code": "CFP",
+        "name": "Conselho Federal de Psicologia"
+    },
+    {
+        "id": 20,
+        "code": "CFQ",
+        "name": "Conselho Regional de Química"
+    },
+    {
+        "id": 21,
+        "code": "CFT",
+        "name": "Conselho Federal dos Técnicos Industriais"
+    },
+    {
+        "id": 22,
+        "code": "CFTA",
+        "name": "Conselho Federal dos Técnicos Agrícolas"
+    },
+    {
+        "id": 23,
+        "code": "CGPI",
+        "name": "Coordenação Geral de Privilégios e Imunidades"
+    },
+    {
+        "id": 24,
+        "code": "CGPMAF",
+        "name": "Coordenadoria Geral de Polícia Marítima, Aeronáutica e de Fronteiras"
+    },
+    {
+        "id": 25,
+        "code": "CIPC",
+        "name": "Centro de Inteligência da Polícia Civil"
+    },
+    {
+        "id": 26,
+        "code": "CNIG",
+        "name": "Conselho Nacional de Imigração"
+    },
+    {
+        "id": 27,
+        "code": "CNT",
+        "name": "Confederação Nacional do Transporte"
+    },
+    {
+        "id": 28,
+        "code": "CNTV",
+        "name": "Confederação Nacional de Vigilantes & Prestadores de Serviços"
+    },
+    {
+        "id": 29,
+        "code": "COFECI",
+        "name": "Conselho Federal de Corretores de Imóveis"
+    },
+    {
+        "id": 30,
+        "code": "COFECON",
+        "name": "Conselho Federal de Economia"
+    },
+    {
+        "id": 31,
+        "code": "COFEM",
+        "name": "Conselho Federal de Museologia"
+    },
+    {
+        "id": 32,
+        "code": "COFEN",
+        "name": "Conselho Federal de Enfermagem"
+    },
+    {
+        "id": 33,
+        "code": "COFFITO",
+        "name": "Conselho Regional de Fisioterapia e Terapia Ocupacional"
+    },
+    {
+        "id": 34,
+        "code": "COMAER",
+        "name": "Comando da Aeronáutica"
+    },
+    {
+        "id": 35,
+        "code": "CONFE",
+        "name": "Conselho Federal de Estatística"
+    },
+    {
+        "id": 36,
+        "code": "CONFEA",
+        "name": "Conselho Federal de Engenharia e Agronomia"
+    },
+    {
+        "id": 37,
+        "code": "CONFEF",
+        "name": "Conselho Federal de Educação Física"
+    },
+    {
+        "id": 38,
+        "code": "CONFERE",
+        "name": "Conselho Federal dos Representantes Comerciais"
+    },
+    {
+        "id": 39,
+        "code": "CONRE",
+        "name": "Conselho Regional de Estatística"
+    },
+    {
+        "id": 40,
+        "code": "CONRERP",
+        "name": "Conselho Federal de Profissionais de Relações Públicas"
+    },
+    {
+        "id": 41,
+        "code": "CORE",
+        "name": "Conselho Regional dos Representantes Comerciais"
+    },
+    {
+        "id": 42,
+        "code": "CORECON",
+        "name": "Conselho Regional de Economia"
+    },
+    {
+        "id": 43,
+        "code": "COREM",
+        "name": "Conselho Regional de Museologia"
+    },
+    {
+        "id": 44,
+        "code": "COREN",
+        "name": "Conselho Regional de Enfermagem"
+    },
+    {
+        "id": 45,
+        "code": "CRA",
+        "name": "Conselho Regional de Administração"
+    },
+    {
+        "id": 46,
+        "code": "CRAS",
+        "name": "Centro de Referência de Assistência Social"
+    },
+    {
+        "id": 47,
+        "code": "CRB",
+        "name": "Conselho Regional de Biblioteconomia"
+    },
+    {
+        "id": 48,
+        "code": "CRBIO",
+        "name": "Conselho Regional de Biologia"
+    },
+    {
+        "id": 49,
+        "code": "CRBM",
+        "name": "Conselho Regional de Biomedicina"
+    },
+    {
+        "id": 50,
+        "code": "CRC",
+        "name": "Conselho Regional de Contabilidade"
+    },
+    {
+        "id": 51,
+        "code": "CREA",
+        "name": "Conselho Regional de Engenharia e Agronomia"
+    },
+    {
+        "id": 52,
+        "code": "CRECI",
+        "name": "Conselho Regional de Corretores de Imóveis"
+    },
+    {
+        "id": 53,
+        "code": "CREF",
+        "name": "Conselho Regional de Educação Física"
+    },
+    {
+        "id": 54,
+        "code": "CREFITO",
+        "name": "Conselho Regional de Fisioterapia e Terapia Ocupacional"
+    },
+    {
+        "id": 55,
+        "code": "CRESS",
+        "name": "Conselho Regional de Serviço Social"
+    },
+    {
+        "id": 56,
+        "code": "CRF",
+        "name": "Conselho Regional de Farmácia"
+    },
+    {
+        "id": 57,
+        "code": "CRFA",
+        "name": "Conselho Regional de Fonoaudiologia"
+    },
+    {
+        "id": 58,
+        "code": "CRM",
+        "name": "Conselho Regional de Medicina"
+    },
+    {
+        "id": 59,
+        "code": "CRMV",
+        "name": "Conselho Regional de Medicina Veterinária"
+    },
+    {
+        "id": 60,
+        "code": "CRN",
+        "name": "Conselho Regional de Nutrição"
+    },
+    {
+        "id": 61,
+        "code": "CRO",
+        "name": "Conselho Regional de Odontologia"
+    },
+    {
+        "id": 62,
+        "code": "CRP",
+        "name": "Conselho Regional de Psicologia"
+    },
+    {
+        "id": 63,
+        "code": "CRPRE",
+        "name": "Conselho Regional de Profissionais de Relações Públicas"
+    },
+    {
+        "id": 64,
+        "code": "CRQ",
+        "name": "Conselho Regional de Química"
+    },
+    {
+        "id": 65,
+        "code": "CRT",
+        "name": "Conselho Regional dos Técnicos Industriais"
+    },
+    {
+        "id": 66,
+        "code": "CRTA",
+        "name": "Conselho Regional de Técnicos de Administração"
+    },
+    {
+        "id": 67,
+        "code": "CTPS",
+        "name": "Carteira de Trabalho e Previdência Social"
+    },
+    {
+        "id": 68,
+        "code": "CV",
+        "name": "Cartório Civil"
+    },
+    {
+        "id": 69,
+        "code": "DELEMIG",
+        "name": "Delegacia de Polícia de Imigração"
+    },
+    {
+        "id": 70,
+        "code": "DETRAN",
+        "name": "Departamento Estadual de Trânsito"
+    },
+    {
+        "id": 71,
+        "code": "DGPC",
+        "name": "Diretoria Geral da Polícia Civil"
+    },
+    {
+        "id": 72,
+        "code": "DIC",
+        "name": "Diretoria de Identificação Civil"
+    },
+    {
+        "id": 73,
+        "code": "DICC",
+        "name": "Diretoria de Identificação Civil e Criminal"
+    },
+    {
+        "id": 74,
+        "code": "DIREX",
+        "name": "Diretoria Executiva"
+    },
+    {
+        "id": 75,
+        "code": "DPF",
+        "name": "Departamento de Polícia Federal"
+    },
+    {
+        "id": 76,
+        "code": "DPMAF",
+        "name": "Divisão de Polícia Marítima, Aérea e de Fronteiras"
+    },
+    {
+        "id": 77,
+        "code": "DPT",
+        "name": "Departamento de Polícia Técnica Geral"
+    },
+    {
+        "id": 78,
+        "code": "DPTC",
+        "name": "Departamento de Polícia Técnico Científica"
+    },
+    {
+        "id": 79,
+        "code": "DREX",
+        "name": "Delegacia Regional Executiva"
+    },
+    {
+        "id": 80,
+        "code": "DRT",
+        "name": "Delegacia Regional do Trabalho"
+    },
+    {
+        "id": 81,
+        "code": "EB",
+        "name": "Exército Brasileiro"
+    },
+    {
+        "id": 82,
+        "code": "FAB",
+        "name": "Força Aérea Brasileira"
+    },
+    {
+        "id": 83,
+        "code": "FENAJ",
+        "name": "Federação Nacional dos Jornalistas"
+    },
+    {
+        "id": 84,
+        "code": "FGTS",
+        "name": "Fundo de Garantia do Tempo de Serviço"
+    },
+    {
+        "id": 85,
+        "code": "FIPE",
+        "name": "Fundação Instituto de Pesquisas Econômicas"
+    },
+    {
+        "id": 86,
+        "code": "FLS",
+        "name": "Fundação Lyndolpho Silva"
+    },
+    {
+        "id": 87,
+        "code": "FUNAI",
+        "name": "Fundação Nacional do Índio"
+    },
+    {
+        "id": 88,
+        "code": "GEJSP",
+        "name": "Gerência de Estado de Justiça, Segurança Pública e Cidadania"
+    },
+    {
+        "id": 89,
+        "code": "GEJSPC",
+        "name": "Gerência de Estado de Justiça, Segurança Pública e Cidadania"
+    },
+    {
+        "id": 90,
+        "code": "GEJUSPC",
+        "name": "Gerência de Estado de Justiça, Segurança Pública e Cidadania"
+    },
+    {
+        "id": 91,
+        "code": "GESP",
+        "name": "Gerência de Estado de Segurança Pública"
+    },
+    {
+        "id": 92,
+        "code": "GOVGO",
+        "name": "Governo do Estado de Goiás"
+    },
+    {
+        "id": 93,
+        "code": "ICLA",
+        "name": "Carteira de Identidade Classista"
+    },
+    {
+        "id": 94,
+        "code": "ICP",
+        "name": "Instituto de Polícia Científica"
+    },
+    {
+        "id": 95,
+        "code": "IDAMP",
+        "name": "Instituto de Identificação Dr. Aroldo Mendes Paiva"
+    },
+    {
+        "id": 96,
+        "code": "IFP",
+        "name": "Instituto Félix Pacheco"
+    },
+    {
+        "id": 97,
+        "code": "IGP",
+        "name": "Instituto Geral de Perícias"
+    },
+    {
+        "id": 98,
+        "code": "IIACM",
+        "name": "Instituto de Identificação Aderson Conceição de Melo"
+    },
+    {
+        "id": 99,
+        "code": "IICC",
+        "name": "Instituto de Identificação Civil e Criminal"
+    },
+    {
+        "id": 100,
+        "code": "IICCECF",
+        "name": "Instituto de Identificação Civil e Criminal Engrácia da Costa Francisco"
+    },
+    {
+        "id": 101,
+        "code": "IICM",
+        "name": "Instituto de Identificação Carlos Menezes"
+    },
+    {
+        "id": 102,
+        "code": "IIGP",
+        "name": "Instituto de Identificação Gonçalo Pereira"
+    },
+    {
+        "id": 103,
+        "code": "IIJDM",
+        "name": "Instituto de Identificação João de Deus Martins"
+    },
+    {
+        "id": 104,
+        "code": "IIRGD",
+        "name": "Instituto de Identificação Ricardo Gumbleton Daunt"
+    },
+    {
+        "id": 105,
+        "code": "IIPC",
+        "name": "Instituto de Identificação da Polícia Civil"
+    },
+    {
+        "id": 106,
+        "code": "IIPM",
+        "name": "Instituto de Identificação Pedro Mello"
+    },
+    {
+        "id": 107,
+        "code": "IIRHM",
+        "name": "Instituto de Identificação Raimundo Hermínio de Melo"
+    },
+    {
+        "id": 108,
+        "code": "IITB",
+        "name": "Instituto de Identificação Tavares Buril"
+    },
+    {
+        "id": 109,
+        "code": "IML",
+        "name": "Instituto Médico-Legal"
+    },
+    {
+        "id": 110,
+        "code": "INI",
+        "name": "Instituto Nacional de Identificação"
+    },
+    {
+        "id": 111,
+        "code": "IPF",
+        "name": "Instituto Pereira Faustino"
+    },
+    {
+        "id": 112,
+        "code": "ITCP",
+        "name": "Instituto Técnico-Científico de Perícia"
+    },
+    {
+        "id": 113,
+        "code": "ITEP",
+        "name": "Instituto Técnico-Científico de Perícia"
+    },
+    {
+        "id": 114,
+        "code": "MAER",
+        "name": "Ministério da Aeronáutica"
+    },
+    {
+        "id": 115,
+        "code": "MB",
+        "name": "Marinha do Brasil"
+    },
+    {
+        "id": 116,
+        "code": "MD",
+        "name": "Ministério da Defesa"
+    },
+    {
+        "id": 117,
+        "code": "MDS",
+        "name": "Ministério da Cidadania"
+    },
+    {
+        "id": 118,
+        "code": "MEC",
+        "name": "Ministério da Educação e Cultura"
+    },
+    {
+        "id": 119,
+        "code": "MEX",
+        "name": "Ministério do Exército"
+    },
+    {
+        "id": 120,
+        "code": "MINDEF",
+        "name": "Ministério da Defesa"
+    },
+    {
+        "id": 121,
+        "code": "MJ",
+        "name": "Ministério da Justiça"
+    },
+    {
+        "id": 122,
+        "code": "MM",
+        "name": "Ministério da Marinha"
+    },
+    {
+        "id": 123,
+        "code": "MMA",
+        "name": "Ministério da Marinha"
+    },
+    {
+        "id": 124,
+        "code": "MP",
+        "name": "Ministério Público"
+    },
+    {
+        "id": 125,
+        "code": "MPAS",
+        "name": "Ministério da Previdência e Assistência Social"
+    },
+    {
+        "id": 126,
+        "code": "MPE",
+        "name": "Ministério Público Estadual"
+    },
+    {
+        "id": 127,
+        "code": "MPF",
+        "name": "Ministério Público Federal"
+    },
+    {
+        "id": 128,
+        "code": "MPT",
+        "name": "Ministério Público do Trabalho"
+    },
+    {
+        "id": 129,
+        "code": "MRE",
+        "name": "Ministério das Relações Exteriores"
+    },
+    {
+        "id": 130,
+        "code": "MT",
+        "name": "Ministério do Trabalho"
+    },
+    {
+        "id": 131,
+        "code": "MTE",
+        "name": "Ministério da Economia"
+    },
+    {
+        "id": 132,
+        "code": "MTPS",
+        "name": "Ministério do Trabalho e Previdência Social"
+    },
+    {
+        "id": 133,
+        "code": "NUMIG",
+        "name": "Núcleo de Polícia de Imigração"
+    },
+    {
+        "id": 134,
+        "code": "OAB",
+        "name": "Ordem dos Advogados do Brasil"
+    },
+    {
+        "id": 135,
+        "code": "OMB",
+        "name": "Ordens dos Músicos do Brasil"
+    },
+    {
+        "id": 136,
+        "code": "PC",
+        "name": "Polícia Civil"
+    },
+    {
+        "id": 137,
+        "code": "PF",
+        "name": "Polícia Federal"
+    },
+    {
+        "id": 138,
+        "code": "PGFN",
+        "name": "Procuradoria Geral da Fazenda Nacional"
+    },
+    {
+        "id": 139,
+        "code": "PM",
+        "name": "Polícia Militar"
+    },
+    {
+        "id": 140,
+        "code": "POLITEC",
+        "name": "Perícia Oficial e Identificação Técnica"
+    },
+    {
+        "id": 141,
+        "code": "PRF",
+        "name": "Polícia Rodoviária Federal"
+    },
+    {
+        "id": 142,
+        "code": "PTC",
+        "name": "Polícia Tecnico-Científica"
+    },
+    {
+        "id": 143,
+        "code": "SCC",
+        "name": "Secretaria de Estado da Casa Civil"
+    },
+    {
+        "id": 144,
+        "code": "SCJDS",
+        "name": "Secretaria Coordenadora de Justiça e Defesa Social"
+    },
+    {
+        "id": 145,
+        "code": "SDS",
+        "name": "Secretaria de Defesa Social"
+    },
+    {
+        "id": 146,
+        "code": "SECC",
+        "name": "Secretaria de Estado da Casa Civil"
+    },
+    {
+        "id": 147,
+        "code": "SECCDE",
+        "name": "Secretaria de Estado da Casa Civil e Desenvolvimento Econômico"
+    },
+    {
+        "id": 148,
+        "code": "SEDS",
+        "name": "Secretaria de Estado da Defesa Social"
+    },
+    {
+        "id": 149,
+        "code": "SEGUP",
+        "name": "Secretaria de Estado da Segurança Pública e da Defesa Social"
+    },
+    {
+        "id": 150,
+        "code": "SEJSP",
+        "name": "Secretaria de Estado de Justiça e Segurança Pública"
+    },
+    {
+        "id": 151,
+        "code": "SEJUC",
+        "name": "Secretaria de Estado da Justica"
+    },
+    {
+        "id": 152,
+        "code": "SEJUSP",
+        "name": "Secretaria de Estado de Justiça e Segurança Pública"
+    },
+    {
+        "id": 153,
+        "code": "SEPC",
+        "name": "Secretaria de Estado da Polícia Civil"
+    },
+    {
+        "id": 154,
+        "code": "SES",
+        "name": "Secretaria de Estado da Segurança"
+    },
+    {
+        "id": 155,
+        "code": "SESC",
+        "name": "Secretaria de Estado da Segurança e Cidadania"
+    },
+    {
+        "id": 156,
+        "code": "SESDC",
+        "name": "Secretaria de Estado da Segurança, Defesa e Cidadania"
+    },
+    {
+        "id": 157,
+        "code": "SESDEC",
+        "name": "Secretaria de Estado da Segurança, Defesa e Cidadania"
+    },
+    {
+        "id": 158,
+        "code": "SESEG",
+        "name": "Secretaria Estadual de Segurança"
+    },
+    {
+        "id": 159,
+        "code": "SESP",
+        "name": "Secretaria de Estado da Segurança Pública"
+    },
+    {
+        "id": 160,
+        "code": "SESPAP",
+        "name": "Secretaria de Estado da Segurança Pública e Administração Penitenciária"
+    },
+    {
+        "id": 161,
+        "code": "SESPDC",
+        "name": "Secretaria de Estado de Segurança Publica e Defesa do Cidadão"
+    },
+    {
+        "id": 162,
+        "code": "SESPDS",
+        "name": "Secretaria de Estado de Segurança Pública e Defesa Social"
+    },
+    {
+        "id": 163,
+        "code": "SGPC",
+        "name": "Superintendência Geral de Polícia Civil"
+    },
+    {
+        "id": 164,
+        "code": "SGPJ",
+        "name": "Superintendência Geral de Polícia Judiciária"
+    },
+    {
+        "id": 165,
+        "code": "SIM",
+        "name": "Serviço de Identificação da Marinha"
+    },
+    {
+        "id": 166,
+        "code": "SJ",
+        "name": "Secretaria da Justiça"
+    },
+    {
+        "id": 167,
+        "code": "SJCDH",
+        "name": "Secretaria da Justiça e dos Direitos Humanos"
+    },
+    {
+        "id": 168,
+        "code": "SJDS",
+        "name": "Secretaria Coordenadora de Justiça e Defesa Social"
+    },
+    {
+        "id": 169,
+        "code": "SJS",
+        "name": "Secretaria da Justiça e Segurança"
+    },
+    {
+        "id": 170,
+        "code": "SJTC",
+        "name": "Secretaria da Justiça do Trabalho e Cidadania"
+    },
+    {
+        "id": 171,
+        "code": "SJTS",
+        "name": "Secretaria da Justiça do Trabalho e Segurança"
+    },
+    {
+        "id": 172,
+        "code": "SNJ",
+        "name": "Secretaria Nacional de Justiça / Departamento de Estrangeiros"
+    },
+    {
+        "id": 173,
+        "code": "SPMAF",
+        "name": "Serviço de Polícia Marítima, Aérea e de Fronteiras"
+    },
+    {
+        "id": 174,
+        "code": "SPTC",
+        "name": "Secretaria de Polícia Técnico-Científica"
+    },
+    {
+        "id": 175,
+        "code": "SRDPF",
+        "name": "Superintendência Regional do Departamento de Polícia Federal"
+    },
+    {
+        "id": 176,
+        "code": "SRF",
+        "name": "Receita Federal"
+    },
+    {
+        "id": 177,
+        "code": "SRTE",
+        "name": "Superintendência Regional do Trabalho"
+    },
+    {
+        "id": 178,
+        "code": "SSDC",
+        "name": "Secretaria da Segurança, Defesa e Cidadania"
+    },
+    {
+        "id": 179,
+        "code": "SSDS",
+        "name": "Secretaria da Segurança e da Defesa Social"
+    },
+    {
+        "id": 180,
+        "code": "SSI",
+        "name": "Secretaria de Segurança e Informações"
+    },
+    {
+        "id": 181,
+        "code": "SSP",
+        "name": "Secretaria de Segurança Pública"
+    },
+    {
+        "id": 182,
+        "code": "SSPCGP",
+        "name": "Secretaria de Segurança Pública e Coordenadoria Geral de Perícias"
+    },
+    {
+        "id": 183,
+        "code": "SSPDC",
+        "name": "Secretaria de Segurança Pública e Defesa do Cidadão"
+    },
+    {
+        "id": 184,
+        "code": "SSPDS",
+        "name": "Secretaria de Segurança Pública e Defesa Social"
+    },
+    {
+        "id": 185,
+        "code": "SSPPC",
+        "name": "Secretaria de Segurança Pública Polícia Civil"
+    },
+    {
+        "id": 186,
+        "code": "SUSEP",
+        "name": "Superintendência de Seguros Privados"
+    },
+    {
+        "id": 187,
+        "code": "SUSEPE",
+        "name": "Superintendência dos Serviços Penitenciários"
+    },
+    {
+        "id": 188,
+        "code": "TJ",
+        "name": "Tribunal de Justiça"
+    },
+    {
+        "id": 189,
+        "code": "TJAEM",
+        "name": "Tribunal Arbitral e Mediação dos Estados Brasileiros"
+    },
+    {
+        "id": 190,
+        "code": "TRE",
+        "name": "Tribunal Regional Eleitoral"
+    },
+    {
+        "id": 191,
+        "code": "TRF",
+        "name": "Tribunal Regional Federal"
+    },
+    {
+        "id": 192,
+        "code": "TSE",
+        "name": "Tribunal Superior Eleitoral"
+    },
+    {
+        "id": 193,
+        "code": "XXX",
+        "name": "Orgão Estrangeiro"
+    },
+    {
+        "id": 194,
+        "code": "ZZZ",
+        "name": "Outro"
+    }
+]
